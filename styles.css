@@ -10,3 +10,12 @@ body{
     min-height: 100vh;
 }
  /* the above cose in body is everything centered with flex*/
+ button{
+    background-color: blueviolet;
+    border: none;
+    color: white;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 1rem;
+ }
